@@ -48,7 +48,8 @@
 ### 📊 GitHub Stats  
 ![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathamPShetty&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamPShetty&layout=compact&theme=radical)  
-![Pratham's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=PrathamPShetty&theme=github-dark)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/PrathamPShetty/PrathamPShetty/main/path/to/your/image.png)
+
 
 ---
 
