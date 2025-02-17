@@ -40,7 +40,7 @@
 
 ### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pratham-p-shetty-a46675298)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:prathampshetty99sai@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:prathampshetty99sai@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=internetexplorer&logoColor=white&style=for-the-badge)](https://prathampshetty.me)  
 
 ---
